@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Level-4-Task-18--Deployed-Task-2/static/css/main.3709a5aa.css",
+    "main.js": "/Level-4-Task-18--Deployed-Task-2/static/js/main.e974d527.js",
+    "index.html": "/Level-4-Task-18--Deployed-Task-2/index.html",
+    "main.3709a5aa.css.map": "/Level-4-Task-18--Deployed-Task-2/static/css/main.3709a5aa.css.map",
+    "main.e974d527.js.map": "/Level-4-Task-18--Deployed-Task-2/static/js/main.e974d527.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3709a5aa.css",
+    "static/js/main.e974d527.js"
+  ]
+}
